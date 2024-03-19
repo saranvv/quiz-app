@@ -87,19 +87,33 @@ const questions = [
   {
     question: 'Who is the best soccer player?',
     answers: [
-      { text: 'Lionel Messi', correct: true },
+      { text: 'Lionel Messi', correct: false },
       { text: 'Cristiano Ronaldo', correct: true },
       { text: 'Robert Lewandowski', correct: false },
       { text: 'kylian Mbappe', correct: false }
     ]
   },
   {
-    question: 'Is web development fun?',
+    question: 'Who created bit coin?',
     answers: [
-      { text: 'Kinda', correct: false },
-      { text: 'YES!!!', correct: true },
-      { text: 'Um no', correct: false },
-      { text: 'IDK', correct: false }
+      { text: 'satoshi nakamoto', correct: true },
+      { text: 'Elon musk', correct: false }
+    ]
+  },
+  {
+    question: 'When was indias independence day ?',
+    answers: [
+      { text: 'August 14', correct: false },
+      { text: 'August 15', correct: true },
+      { text: 'April 14', correct: false },
+      { text: 'April 15', correct: false }
+    ]
+  },
+  {
+    question: 'India space agency acronym?',
+    answers: [
+      { text: 'ISRO', correct: true },
+      { text: 'NASA', correct: false }
     ]
   },
   {
