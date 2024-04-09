@@ -1,0 +1,1 @@
+A dynamic quiz app using HTML, CSS, and JavaScript, showcasing proficiency in front-end web development. Designed an engaging user interface, implemented interactive features, and managed result calculations for a seamless user experience.
